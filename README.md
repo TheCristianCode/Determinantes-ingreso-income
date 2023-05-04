@@ -1,4 +1,4 @@
-# Determinantes-ingreso-income
+# Determinants-income-income
 ● Problema a resolver (regresión o clasificación) ----> vector objetivo de tipo categórico/dicotómico
 
 ● Uso de las librerías asociadas
